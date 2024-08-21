@@ -1,0 +1,61 @@
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\bin\Debug\net8.0\Movies.Application.deps.json
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\bin\Debug\net8.0\Movies.Application.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\bin\Debug\net8.0\Movies.Application.pdb
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\bin\Debug\net8.0\Movies.Domain.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\bin\Debug\net8.0\Movies.Domain.pdb
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.csproj.AssemblyReference.cache
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.AssemblyInfoInputs.cache
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.AssemblyInfo.cs
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.csproj.CoreCompileInputs.cache
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.csproj.CopyComplete
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\refint\Movies.Application.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.pdb
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\ref\Movies.Application.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\bin\Debug\net8.0\Movies.Application.deps.json
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\bin\Debug\net8.0\Movies.Application.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\bin\Debug\net8.0\Movies.Application.pdb
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\bin\Debug\net8.0\Movies.Domain.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\bin\Debug\net8.0\Movies.Domain.pdb
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.csproj.AssemblyReference.cache
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.AssemblyInfoInputs.cache
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.AssemblyInfo.cs
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.csproj.CoreCompileInputs.cache
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.csproj.CopyComplete
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\refint\Movies.Application.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.pdb
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\ref\Movies.Application.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\bin\Debug\net8.0\Movies.Application.deps.json
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\bin\Debug\net8.0\Movies.Application.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\bin\Debug\net8.0\Movies.Application.pdb
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\bin\Debug\net8.0\Movies.Domain.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\bin\Debug\net8.0\Movies.Domain.pdb
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.csproj.AssemblyReference.cache
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.AssemblyInfoInputs.cache
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.AssemblyInfo.cs
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.csproj.CoreCompileInputs.cache
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.csproj.CopyComplete
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\refint\Movies.Application.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.pdb
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\ref\Movies.Application.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.Application\bin\Debug\net8.0\Movies.Application.deps.json
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.Application\bin\Debug\net8.0\Movies.Application.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.Application\bin\Debug\net8.0\Movies.Application.pdb
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.Application\bin\Debug\net8.0\Movies.Domain.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.Application\bin\Debug\net8.0\Movies.Domain.pdb
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.csproj.AssemblyReference.cache
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.AssemblyInfoInputs.cache
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.AssemblyInfo.cs
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.csproj.CoreCompileInputs.cache
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.sourcelink.json
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.csproj.CopyComplete
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\refint\Movies.Application.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\Movies.Application.pdb
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.Application\obj\Debug\net8.0\ref\Movies.Application.dll

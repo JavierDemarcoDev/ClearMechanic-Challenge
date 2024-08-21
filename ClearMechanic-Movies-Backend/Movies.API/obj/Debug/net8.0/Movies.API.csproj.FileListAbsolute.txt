@@ -1,0 +1,518 @@
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.csproj.AssemblyReference.cache
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.AssemblyInfoInputs.cache
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.AssemblyInfo.cs
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.csproj.CoreCompileInputs.cache
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\appsettings.Development.json
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\appsettings.json
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.API.exe
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.API.deps.json
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.API.runtimeconfig.json
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.API.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.API.pdb
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\AutoMapper.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Azure.Core.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Azure.Identity.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\MediatR.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.Application.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.Domain.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.Infrastructure.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.Infrastructure.pdb
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.Application.pdb
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.Domain.pdb
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\staticwebassets\msbuild.Movies.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Movies.API.props
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Movies.API.props
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Movies.API.props
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\scopedcss\bundle\Movies.API.styles.css
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.csproj.CopyComplete
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\refint\Movies.API.dll
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.pdb
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.genruntimeconfig.cache
+D:\Javier\Programas\IT Orgs\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\ref\Movies.API.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\appsettings.Development.json
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\appsettings.json
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.API.exe
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.API.deps.json
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.API.runtimeconfig.json
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.API.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.API.pdb
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\AutoMapper.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Azure.Core.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Azure.Identity.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Humanizer.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\MediatR.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.CodeDom.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Text.Json.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.Application.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.Domain.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.Infrastructure.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.Infrastructure.pdb
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.Application.pdb
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.Domain.pdb
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.csproj.AssemblyReference.cache
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.AssemblyInfoInputs.cache
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.AssemblyInfo.cs
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.csproj.CoreCompileInputs.cache
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\staticwebassets\msbuild.Movies.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Movies.API.props
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Movies.API.props
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Movies.API.props
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\scopedcss\bundle\Movies.API.styles.css
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.csproj.CopyComplete
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\refint\Movies.API.dll
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.pdb
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.genruntimeconfig.cache
+D:\Repos\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\ref\Movies.API.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\appsettings.json
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.API.exe
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.API.deps.json
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.API.runtimeconfig.json
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.API.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.API.pdb
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Humanizer.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\MediatR.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.Application.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.Domain.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.Infrastructure.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.Infrastructure.pdb
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.Application.pdb
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.Domain.pdb
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.csproj.AssemblyReference.cache
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.AssemblyInfoInputs.cache
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.AssemblyInfo.cs
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.csproj.CoreCompileInputs.cache
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\staticwebassets\msbuild.Movies.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Movies.API.props
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Movies.API.props
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Movies.API.props
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\scopedcss\bundle\Movies.API.styles.css
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.csproj.CopyComplete
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\refint\Movies.API.dll
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.pdb
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.genruntimeconfig.cache
+C:\Users\CFO Tech\Downloads\Challenges\ClearMechanic - Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\ref\Movies.API.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\appsettings.Development.json
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\appsettings.json
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.API.exe
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.API.deps.json
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.API.runtimeconfig.json
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.API.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.API.pdb
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\AutoMapper.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Azure.Core.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Azure.Identity.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Humanizer.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\MediatR.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\MediatR.Contracts.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.CodeDom.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Text.Json.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.Application.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.Domain.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.Infrastructure.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.Infrastructure.pdb
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.Application.pdb
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\bin\Debug\net8.0\Movies.Domain.pdb
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.csproj.AssemblyReference.cache
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.AssemblyInfoInputs.cache
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.AssemblyInfo.cs
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.csproj.CoreCompileInputs.cache
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.sourcelink.json
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\staticwebassets.development.json
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\staticwebassets\msbuild.Movies.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Movies.API.props
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Movies.API.props
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Movies.API.props
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\scopedcss\bundle\Movies.API.styles.css
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.csproj.CopyComplete
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\refint\Movies.API.dll
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.pdb
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\Movies.API.genruntimeconfig.cache
+E:\Repos\Challenge\ClearMechanic-Challenge\ClearMechanic-Movies-Backend\Movies.API\obj\Debug\net8.0\ref\Movies.API.dll
