@@ -4,12 +4,6 @@ title: ClearMechanic Challenge
 ---
 
 # ClearMechanic Challenge
-
-![alt text](./README-images/image-2.png)
-![alt text](./README-images/image-1.png)
-
----
-
 ## Backend Solution
 
 The project was designed with a strong emphasis on development best practices and architectural patterns, aiming to showcase my skills in designing solutions for projects of various sizes, from small-scale to large-scale.
